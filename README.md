@@ -23,12 +23,12 @@ Each case presents a realistic system architecture focusing on scalability, avai
 
 ## 📚 Topics Covered
 
-- Event-driven architecture
-- Microservices and APIs
+- Event-driven architecture ✅
+- Microservices and APIs ✅
 - Data partitioning and replication
-- Caching strategies
-- High availability and fault tolerance
-- CQRS and eventual consistency
+- Caching strategies ✅
+- High availability and fault tolerance ✅
+- CQRS and eventual consistency ✅
 - Load balancing and scaling
 
 ---
